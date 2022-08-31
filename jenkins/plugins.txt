@@ -1,4 +1,3 @@
-matrix-project:1.19
 blueocean:latest
 job-import-plugin:latest
 slack:latest
